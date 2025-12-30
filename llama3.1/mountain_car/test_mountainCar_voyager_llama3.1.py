@@ -3,7 +3,7 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "4"
 from explorer import Explorer
 
 # start_timestep = 0
-model_name = "llama3.1"
+model_name = "llama3-8b"
 env_name = "mountaincar_llama"
 backend_env = "mountaincar-voyager"
 
