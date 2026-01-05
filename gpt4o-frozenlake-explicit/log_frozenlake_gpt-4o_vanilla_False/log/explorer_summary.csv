@@ -1,0 +1,61 @@
+timestamp,model_name,env_name,instruction,action_path,step_count,final_score
+2026-01-05_05:17:22,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 2]",2,0
+2026-01-05_05:17:35,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 2]",2,0
+2026-01-05_05:17:45,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 2]",4,0
+2026-01-05_05:17:55,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 2]",2,0
+2026-01-05_05:18:00,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 2]",2,0
+2026-01-05_05:18:01,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 2]",2,0
+2026-01-05_05:18:02,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]",[1],1,0
+2026-01-05_05:18:04,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 2]",2,0
+2026-01-05_05:18:07,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 2]",4,0
+2026-01-05_05:18:08,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 2]",2,0
+2026-01-05_05:18:09,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 2]",2,0
+2026-01-05_05:18:11,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 2]",2,0
+2026-01-05_05:18:12,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 2]",2,0
+2026-01-05_05:18:13,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 2]",2,0
+2026-01-05_05:18:14,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]",[1],1,0
+2026-01-05_05:18:15,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 2]",2,0
+2026-01-05_05:18:16,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]",[1],1,0
+2026-01-05_05:18:17,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]",[1],1,0
+2026-01-05_05:18:18,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 2]",2,0
+2026-01-05_05:18:18,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]",[1],1,0
+2026-01-05_05:18:19,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'H', 'H', 'H'], ['F', 'H', 'H', 'H'], ['F', 'F', 'F', 'F'], ['H', 'H', 'H', 'G']]",[2],1,0
+2026-01-05_05:18:20,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'H', 'H', 'H'], ['F', 'H', 'H', 'H'], ['F', 'F', 'F', 'F'], ['H', 'H', 'H', 'G']]",[2],1,0
+2026-01-05_05:18:24,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'H', 'H', 'H'], ['F', 'H', 'H', 'H'], ['F', 'F', 'F', 'F'], ['H', 'H', 'H', 'G']]","[1, 1, 2, 2, 2, 1]",6,1.0
+2026-01-05_05:18:25,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'H', 'H', 'H'], ['F', 'H', 'H', 'H'], ['F', 'F', 'F', 'F'], ['H', 'H', 'H', 'G']]",[2],1,0
+2026-01-05_05:18:25,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'H', 'H', 'H'], ['F', 'H', 'H', 'H'], ['F', 'F', 'F', 'F'], ['H', 'H', 'H', 'G']]",[2],1,0
+2026-01-05_05:18:26,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'H', 'H', 'H'], ['F', 'H', 'H', 'H'], ['F', 'F', 'F', 'F'], ['H', 'H', 'H', 'G']]",[2],1,0
+2026-01-05_05:18:27,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'H', 'H', 'H'], ['F', 'H', 'H', 'H'], ['F', 'F', 'F', 'F'], ['H', 'H', 'H', 'G']]",[2],1,0
+2026-01-05_05:18:27,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'H', 'H', 'H'], ['F', 'H', 'H', 'H'], ['F', 'F', 'F', 'F'], ['H', 'H', 'H', 'G']]",[2],1,0
+2026-01-05_05:18:28,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'H', 'H', 'H'], ['F', 'H', 'H', 'H'], ['F', 'F', 'F', 'F'], ['H', 'H', 'H', 'G']]",[2],1,0
+2026-01-05_05:18:29,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'H', 'H', 'H'], ['F', 'H', 'H', 'H'], ['F', 'F', 'F', 'F'], ['H', 'H', 'H', 'G']]",[2],1,0
+2026-01-05_05:18:29,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'H', 'H', 'H'], ['F', 'H', 'H', 'H'], ['F', 'F', 'F', 'F'], ['H', 'H', 'H', 'G']]",[2],1,0
+2026-01-05_05:18:31,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'H', 'H', 'H'], ['F', 'H', 'H', 'H'], ['F', 'F', 'F', 'F'], ['H', 'H', 'H', 'G']]","[1, 2]",2,0
+2026-01-05_05:18:34,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'H', 'H', 'H'], ['F', 'H', 'H', 'H'], ['F', 'F', 'F', 'F'], ['H', 'H', 'H', 'G']]","[1, 1, 2, 2, 2, 1]",6,1.0
+2026-01-05_05:18:35,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'H', 'H', 'H'], ['F', 'H', 'H', 'H'], ['F', 'F', 'F', 'F'], ['H', 'H', 'H', 'G']]",[2],1,0
+2026-01-05_05:18:36,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'H', 'H', 'H'], ['F', 'H', 'H', 'H'], ['F', 'F', 'F', 'F'], ['H', 'H', 'H', 'G']]",[2],1,0
+2026-01-05_05:18:37,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'H', 'H', 'H'], ['F', 'H', 'H', 'H'], ['F', 'F', 'F', 'F'], ['H', 'H', 'H', 'G']]",[2],1,0
+2026-01-05_05:18:37,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'H', 'H', 'H'], ['F', 'H', 'H', 'H'], ['F', 'F', 'F', 'F'], ['H', 'H', 'H', 'G']]",[2],1,0
+2026-01-05_05:18:38,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'H', 'H', 'H'], ['F', 'H', 'H', 'H'], ['F', 'F', 'F', 'F'], ['H', 'H', 'H', 'G']]",[2],1,0
+2026-01-05_05:18:38,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'H', 'H', 'H'], ['F', 'H', 'H', 'H'], ['F', 'F', 'F', 'F'], ['H', 'H', 'H', 'G']]",[2],1,0
+2026-01-05_05:18:39,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'H', 'H', 'H'], ['F', 'H', 'H', 'H'], ['F', 'F', 'F', 'F'], ['H', 'H', 'H', 'G']]",[2],1,0
+2026-01-05_05:18:42,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 2]",4,0
+2026-01-05_05:18:43,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 1]",2,0
+2026-01-05_05:18:43,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]",[1],1,0
+2026-01-05_05:18:45,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 2]",3,0
+2026-01-05_05:18:47,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 1]",2,0
+2026-01-05_05:18:48,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 1]",2,0
+2026-01-05_05:18:51,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 2]",4,0
+2026-01-05_05:18:54,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 2]",4,0
+2026-01-05_05:18:56,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 2]",3,0
+2026-01-05_05:18:58,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 2]",3,0
+2026-01-05_05:19:01,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 2]",4,0
+2026-01-05_05:19:03,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 2]",3,0
+2026-01-05_05:19:04,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]",[1],1,0
+2026-01-05_05:19:06,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 2]",3,0
+2026-01-05_05:19:08,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 2]",4,0
+2026-01-05_05:19:09,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 1]",2,0
+2026-01-05_05:19:10,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]",[1],1,0
+2026-01-05_05:19:12,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 2]",3,0
+2026-01-05_05:19:14,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 2]",4,0
+2026-01-05_05:19:17,gpt-4o,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 2]",3,0
