@@ -1,0 +1,13 @@
+已完成:
+log_mountaincar_qwen3-30b_memorybank_True_False
+log_mountaincar_qwen3-30b_memorybank_True_True
+log_mountaincar_qwen3-30b_vanilla_False_False
+log_mountaincar_qwen3-30b_vanilla_True_False
+log_mountaincar_qwen3-30b_vanilla_True_True
+
+需要 continue:
+voyager true fale
+voyager true true
+memorybank true false
+memorybank true true
+
