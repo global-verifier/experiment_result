@@ -1,6 +1,6 @@
 # 实验结果完整性检查报告
 
-**生成时间**: 2026-01-07 23:07:39
+**生成时间**: 2026-01-08 15:35:34
 
 **检查目录**: `/data/xingkun/experiment_result`
 
@@ -9,12 +9,12 @@
 | 模型 | 环境数 | 完整性 | 一致性 |
 |------|--------|--------|--------|
 | llama3.1_8b | 5/5 | ⚠️ CSV行数错误 | ✅ 一致 |
-| llama-3.3-70b-instruct | 5/5 | ⚠️ mountaincar缺少方法, CSV行数错误 | ✅ 一致 |
-| qwen2.5-7b | 5/5 | ⚠️ mountaincar缺少方法, CSV行数错误 | ✅ 一致 |
-| qwen3-30b | 5/5 | ⚠️ CSV行数错误, frozenlake-explicit缺少方法 | ✅ 一致 |
+| llama-3.3-70b-instruct | 5/5 | ⚠️ mountaincar缺少方法 | ✅ 一致 |
+| qwen2.5-7b | 5/5 | ⚠️ mountaincar缺少方法 | ✅ 一致 |
+| qwen3-30b | 5/5 | ⚠️ CSV行数错误 | ✅ 一致 |
 | gpt4o | 5/5 | ✅ 完整 | ✅ 一致 |
-| grok-3 | 5/5 | ⚠️ mountaincar缺少方法, CSV行数错误 | ✅ 一致 |
-| deepseek-r1 | 5/5 | ⚠️ mountaincar缺少方法, CSV行数错误, frozenlake-explicit缺少方法 | ✅ 一致 |
+| grok-3 | 5/5 | ⚠️ mountaincar缺少方法 | ✅ 一致 |
+| deepseek-r1 | 5/5 | ⚠️ mountaincar缺少方法 | ✅ 一致 |
 
 ## 🔍 一致性检查
 
@@ -46,18 +46,10 @@
 - 方法数: 9/9 ✓
 - CSV行数: 全部正确 ✓
 
-#### ⚠️ webshop-implicit
+#### ✅ webshop-implicit
 - 文件夹: `llama3.1_8b-webshop-implicit`
-- CSV行数问题:
-  - generative_True_False: 21/41行
-  - generative_True_True: 21/41行
-  - memorybank_True_False: 21/41行
-  - memorybank_True_True: 21/41行
-  - vanilla_False_False: 21/41行
-  - vanilla_True_False: 21/41行
-  - vanilla_True_True: 21/41行
-  - voyager_True_False: 21/41行
-  - voyager_True_True: 21/41行
+- 方法数: 9/9 ✓
+- CSV行数: 全部正确 ✓
 
 ### 🔹 llama-3.3-70b-instruct
 
@@ -81,18 +73,10 @@
 - 方法数: 9/9 ✓
 - CSV行数: 全部正确 ✓
 
-#### ⚠️ webshop-implicit
+#### ✅ webshop-implicit
 - 文件夹: `llama-3.3-70b-instruct-webshop-implicit`
-- CSV行数问题:
-  - generative_True_False: 21/41行
-  - generative_True_True: 21/41行
-  - memorybank_True_False: 21/41行
-  - memorybank_True_True: 21/41行
-  - vanilla_False_False: 21/41行
-  - vanilla_True_False: 21/41行
-  - vanilla_True_True: 21/41行
-  - voyager_True_False: 21/41行
-  - voyager_True_True: 21/41行
+- 方法数: 9/9 ✓
+- CSV行数: 全部正确 ✓
 
 ### 🔹 qwen2.5-7b
 
@@ -116,25 +100,17 @@
 - 方法数: 9/9 ✓
 - CSV行数: 全部正确 ✓
 
-#### ⚠️ webshop-implicit
+#### ✅ webshop-implicit
 - 文件夹: `qwen2.5-7b-instruct-webshop-implicit`
-- CSV行数问题:
-  - generative_True_False: 21/41行
-  - generative_True_True: 21/41行
-  - memorybank_True_False: 21/41行
-  - memorybank_True_True: 21/41行
-  - vanilla_False_False: 21/41行
-  - vanilla_True_False: 21/41行
-  - vanilla_True_True: 21/41行
-  - voyager_True_False: 21/41行
-  - voyager_True_True: 21/41行
+- 方法数: 9/9 ✓
+- CSV行数: 全部正确 ✓
 
 ### 🔹 qwen3-30b
 
-#### ⚠️ frozenlake-explicit
+#### ✅ frozenlake-explicit
 - 文件夹: `qwen3-30b-instruct-frozenlake-explicit`
-- 方法数: 8/9
-- 缺失方法: generative_True_False
+- 方法数: 9/9 ✓
+- CSV行数: 全部正确 ✓
 
 #### ✅ frozenlake-implicit
 - 文件夹: `qwen3-30b-instruct-frozenlake-implicit`
@@ -154,18 +130,10 @@
 - 方法数: 9/9 ✓
 - CSV行数: 全部正确 ✓
 
-#### ⚠️ webshop-implicit
+#### ✅ webshop-implicit
 - 文件夹: `qwen3-30b-instruct-webshop-implicit`
-- CSV行数问题:
-  - generative_True_False: 21/41行
-  - generative_True_True: 21/41行
-  - memorybank_True_False: 21/41行
-  - memorybank_True_True: 21/41行
-  - vanilla_False_False: 21/41行
-  - vanilla_True_False: 21/41行
-  - vanilla_True_True: 21/41行
-  - voyager_True_False: 21/41行
-  - voyager_True_True: 21/41行
+- 方法数: 9/9 ✓
+- CSV行数: 全部正确 ✓
 
 ### 🔹 gpt4o
 
@@ -216,25 +184,17 @@
 - 方法数: 9/9 ✓
 - CSV行数: 全部正确 ✓
 
-#### ⚠️ webshop-implicit
+#### ✅ webshop-implicit
 - 文件夹: `grok-3-webshop-implicit`
-- CSV行数问题:
-  - generative_True_False: 21/41行
-  - generative_True_True: 21/41行
-  - memorybank_True_False: 21/41行
-  - memorybank_True_True: 21/41行
-  - vanilla_False_False: 21/41行
-  - vanilla_True_False: 21/41行
-  - vanilla_True_True: 21/41行
-  - voyager_True_False: 21/41行
-  - voyager_True_True: 21/41行
+- 方法数: 9/9 ✓
+- CSV行数: 全部正确 ✓
 
 ### 🔹 deepseek-r1
 
-#### ⚠️ frozenlake-explicit
+#### ✅ frozenlake-explicit
 - 文件夹: `deepseek-r1-frozenlake-explicit`
-- 方法数: 8/9
-- 缺失方法: generative_True_False
+- 方法数: 9/9 ✓
+- CSV行数: 全部正确 ✓
 
 #### ✅ frozenlake-implicit
 - 文件夹: `deepseek-r1-frozenlake-implicit`
@@ -251,23 +211,15 @@
 - 方法数: 9/9 ✓
 - CSV行数: 全部正确 ✓
 
-#### ⚠️ webshop-implicit
+#### ✅ webshop-implicit
 - 文件夹: `deepseek-r1-webshop-implicit`
-- CSV行数问题:
-  - generative_True_False: 21/41行
-  - generative_True_True: 21/41行
-  - memorybank_True_False: 21/41行
-  - memorybank_True_True: 21/41行
-  - vanilla_False_False: 21/41行
-  - vanilla_True_False: 21/41行
-  - vanilla_True_True: 21/41行
-  - voyager_True_False: 21/41行
-  - voyager_True_True: 21/41行
+- 方法数: 9/9 ✓
+- CSV行数: 全部正确 ✓
 
 ## 📈 统计摘要
 
 - **模型数**: 7/7
 - **环境数**: 35/35
-- **方法数**: 279/315
-- **CSV正确率**: 218/279 (78.1%)
+- **方法数**: 281/315
+- **CSV正确率**: 274/281 (97.5%)
 - **一致性问题**: 0个
