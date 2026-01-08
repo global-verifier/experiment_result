@@ -307,7 +307,7 @@ def main():
     # 生成合并的表格
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
     output_file = BASE_DIR / f"all_models_table_{timestamp}.csv"
-    write_table_csv(all_data, output_file)
+    # write_table_csv(all_data, output_file)
     
     # 同时生成每个模型单独的表格
     for model_folder, (model_prefix, model_variants, display_name) in MODELS.items():
