@@ -20,3 +20,10 @@ timestamp,model_name,env_name,instruction,action_path,step_count,final_score
 2026-01-11_19:39:34,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 2, 1]",6,1.0
 2026-01-11_19:46:10,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 2, 1]",6,1.0
 2026-01-11_19:48:39,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 1]",2,0
+2026-01-11_20:13:53,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 0, 2, 0, 2, 0, 2, 0, 2, 1]",10,0
+2026-01-11_20:18:32,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 1]",2,0
+2026-01-11_20:48:40,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 3, 3, 0, 2, 0, 2, 0, 2, 1]",10,0
+2026-01-11_21:11:32,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 0, 2, 0, 2, 0, 2, 1]",8,0
+2026-01-11_21:14:37,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 1]",2,0
+2026-01-11_21:47:26,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 3, 0, 2, 3, 0, 2, 3, 1]",9,0
+2026-01-11_21:52:19,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 1]",2,0
