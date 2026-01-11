@@ -1,11 +1,11 @@
-FrozenLake Explicit - v2,,
-Method,Llama3.3-70B,Grok-3
-no-memory,0.0333,0.1333
-vanilla,0.5500,0.2833
-vanilla-glove,0.8333,0.8500
-memorybank,0.4833,0.6000
-memorybank-glove,0.7833,0.8500
-voyager,0.2833,0.5667
-voyager-glove,0.8000,0.8000
-generative,0.5500,0.3833
-generative-glove,0.8500,0.8333
+FrozenLake Explicit - v2,Llama3.3-70B,,,Grok-3,,
+Method,env0,env1,env2,env0,env1,env2
+no-memory,0.1000,0.0000,0.0000,0.4000,0.0000,0.0000
+vanilla,0.8500,0.8000,0.0000,0.8500,0.0000,0.0000
+vanilla-glove,0.9000,0.8000,0.8000,1.0000,0.7500,0.8000
+memorybank,0.8500,0.6000,0.0000,0.9500,0.8500,0.0000
+memorybank-glove,0.8500,0.8000,0.7000,1.0000,0.8000,0.7500
+voyager,0.8500,0.0000,0.0000,1.0000,0.7000,0.0000
+voyager-glove,0.9000,0.8000,0.7000,0.9500,0.7500,0.7000
+generative,0.8500,0.8000,0.0000,0.9000,0.0000,0.2500
+generative-glove,0.9500,0.8000,0.8000,1.0000,0.8000,0.7000
