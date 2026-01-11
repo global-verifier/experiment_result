@@ -1,6 +1,6 @@
 # 实验结果完整性检查报告
 
-**生成时间**: 2026-01-12 00:51:52
+**生成时间**: 2026-01-12 01:17:35
 
 **检查目录**: `/data/xingkun/experiment_result`
 
@@ -11,7 +11,7 @@
 | llama3.1_8b | 5/5 | ⚠️ CSV行数错误 | ✅ 一致 |
 | llama-3.3-70b-instruct | 5/5 | ⚠️ mountaincar缺少方法 | ✅ 一致 |
 | qwen2.5-7b | 5/5 | ⚠️ CSV行数错误 | ✅ 一致 |
-| qwen3-30b | 5/5 | ⚠️ CSV行数错误, frozenlake-explicit缺少方法 | ✅ 一致 |
+| qwen3-30b | 5/5 | ✅ 完整 | ✅ 一致 |
 | gpt4o | 5/5 | ✅ 完整 | ✅ 一致 |
 | grok-3 | 5/5 | ✅ 完整 | ✅ 一致 |
 | deepseek-r1 | 5/5 | ⚠️ CSV行数错误 | ✅ 一致 |
@@ -38,8 +38,6 @@
 - 文件夹: `llama3.1_8b-mountaincar`
 - CSV行数问题:
   - generative_True_False: 60/61行
-  - memorybank_True_False: 66/61行
-  - voyager_True_False: 62/61行
 
 #### ✅ webshop-explicit
 - 文件夹: `llama3.1_8b-webshop-explicit`
@@ -110,15 +108,10 @@
 
 ### 🔹 qwen3-30b
 
-#### ⚠️ frozenlake-explicit
+#### ✅ frozenlake-explicit
 - 文件夹: `qwen3-30b-instruct-frozenlake-explicit`
-- 方法数: 8/9
-- CSV行数问题:
-  - generative_True_False: 25/61行
-  - generative_True_True: 22/61行
-  - voyager_True_False: 28/61行
-  - voyager_True_True: 22/61行
-- 缺失方法: memorybank_True_True
+- 方法数: 9/9 ✓
+- CSV行数: 全部正确 ✓
 
 #### ✅ frozenlake-implicit
 - 文件夹: `qwen3-30b-instruct-frozenlake-implicit`
@@ -199,8 +192,7 @@
 #### ⚠️ frozenlake-explicit
 - 文件夹: `deepseek-r1-frozenlake-explicit`
 - CSV行数问题:
-  - generative_True_False: 29/61行
-  - generative_True_True: 52/61行
+  - generative_True_False: 32/61行
 
 #### ✅ frozenlake-implicit
 - 文件夹: `deepseek-r1-frozenlake-implicit`
@@ -213,7 +205,7 @@
   - generative_True_False: 18/61行
   - generative_True_True: 9/61行
   - memorybank_True_False: 9/61行
-  - memorybank_True_True: 9/61行
+  - memorybank_True_True: 10/61行
   - vanilla_False_False: 8/61行
   - vanilla_True_False: 9/61行
   - vanilla_True_True: 8/61行
@@ -234,6 +226,6 @@
 
 - **模型数**: 7/7
 - **环境数**: 35/35
-- **方法数**: 306/315
-- **CSV正确率**: 284/306 (92.8%)
+- **方法数**: 307/315
+- **CSV正确率**: 292/307 (95.1%)
 - **一致性问题**: 0个
