@@ -1,6 +1,6 @@
 # 实验结果完整性检查报告
 
-**生成时间**: 2026-01-12 22:16:00
+**生成时间**: 2026-01-12 22:20:59
 
 **检查目录**: `/data/xingkun/experiment_result`
 
@@ -11,7 +11,7 @@
 | llama3.1_8b | 5/5 | ⚠️ frozenlake-explicit缺少方法 | ✅ 一致 |
 | llama-3.3-70b-instruct | 5/5 | ⚠️ CSV行数错误 | ✅ 一致 |
 | qwen2.5-7b | 5/5 | ⚠️ CSV行数错误 | ✅ 一致 |
-| qwen3-30b | 5/5 | ⚠️ frozenlake-explicit缺少方法 | ✅ 一致 |
+| qwen3-30b | 5/5 | ✅ 完整 | ✅ 一致 |
 | gpt4o | 5/5 | ✅ 完整 | ✅ 一致 |
 | grok-3 | 5/5 | ✅ 完整 | ✅ 一致 |
 | deepseek-r1 | 5/5 | ⚠️ CSV行数错误 | ✅ 一致 |
@@ -113,10 +113,10 @@
 
 ### 🔹 qwen3-30b
 
-#### ⚠️ frozenlake-explicit
+#### ✅ frozenlake-explicit
 - 文件夹: `qwen3-30b-instruct-frozenlake-explicit`
-- 方法数: 0/9
-- 缺失方法: generative_True_False, generative_True_True, memorybank_True_False, memorybank_True_True, vanilla_False_False, vanilla_True_False, vanilla_True_True, voyager_True_False, voyager_True_True
+- 方法数: 9/9 ✓
+- CSV行数: 全部正确 ✓
 
 #### ✅ frozenlake-implicit
 - 文件夹: `qwen3-30b-instruct-frozenlake-implicit`
@@ -245,8 +245,8 @@
   - generative_True_False: 19/61行
   - generative_True_True: 24/61行
   - memorybank_True_False: 39/61行
-  - memorybank_True_True: 39/61行
-  - vanilla_False_False: 55/61行
+  - memorybank_True_True: 40/61行
+  - vanilla_False_False: 56/61行
   - vanilla_True_False: 21/61行
   - vanilla_True_True: 19/61行
   - voyager_True_False: 15/61行
@@ -274,6 +274,6 @@
 
 - **模型数**: 8/7
 - **环境数**: 40/35
-- **方法数**: 342/315
-- **CSV正确率**: 306/342 (89.5%)
+- **方法数**: 351/315
+- **CSV正确率**: 315/351 (89.7%)
 - **一致性问题**: 0个
