@@ -1,0 +1,12 @@
+Llama3.3-70B,,,,
+,webshop,,frozen lake,
+,env0,env1,env0,env1
+no-memory,0.9125,0.8000,0.0000,0.0000
+vanilla,0.8625,0.7500,0.4250,0.9500
+vanilla-glove,1.0000,0.7500,0.4250,1.0000
+memorybank,0.9875,0.8125,0.3500,0.9000
+memorybank-glove,1.0000,0.8875,0.3500,0.9000
+voyager,0.9625,0.7500,0.4000,1.0000
+voyager-glove,1.0000,0.9500,0.4000,1.0000
+generative,1.0000,0.7500,0.4000,1.0000
+generative-glove,1.0000,0.7500,0.4250,1.0000
