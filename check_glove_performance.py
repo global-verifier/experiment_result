@@ -34,6 +34,7 @@ MODEL_ORDER = [
     "GPT-4o",
     "Grok-3",
     "DeepSeek-R1",
+    "DeepSeek-V3.2",
 ]
 
 

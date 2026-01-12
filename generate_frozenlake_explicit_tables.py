@@ -28,6 +28,7 @@ MODEL_PATTERNS = {
     "gpt4o": (["gpt-4o", "gpt4o"], "GPT-4o"),
     "grok-3": (["grok-3"], "Grok-3"),
     "deepseek-r1": (["deepseek-r1"], "DeepSeek-R1"),
+    "deepseek-v3.2": (["deepseek-v3.2"], "DeepSeek-V3.2"),
 }
 
 # 方法列表
@@ -74,6 +75,7 @@ MODEL_ORDER = [
     "GPT-4o",
     "Grok-3",
     "DeepSeek-R1",
+    "DeepSeek-V3.2",
 ]
 
 # 最小数据点要求
