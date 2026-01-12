@@ -1,0 +1,61 @@
+timestamp,model_name,env_name,instruction,action_path,step_count,final_score
+2026-01-11_14:56:47,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]",[1],1,0
+2026-01-11_15:00:16,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 1]",5,0
+2026-01-11_15:05:11,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 2, 1]",6,1.0
+2026-01-11_15:06:10,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 2, 1]",6,1.0
+2026-01-11_15:07:21,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 2, 1]",6,1.0
+2026-01-11_15:08:35,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 2, 1]",6,1.0
+2026-01-11_15:10:00,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 2, 1]",6,1.0
+2026-01-11_15:11:48,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 2, 1]",6,1.0
+2026-01-11_15:12:59,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 2, 1]",6,1.0
+2026-01-11_15:14:22,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 2, 1]",6,1.0
+2026-01-11_15:15:37,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 2, 1]",6,1.0
+2026-01-11_15:17:02,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 2, 1]",6,1.0
+2026-01-11_15:18:26,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 2, 1]",6,1.0
+2026-01-11_15:19:23,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 2, 1]",6,1.0
+2026-01-11_15:20:49,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 2, 1]",6,1.0
+2026-01-11_15:21:45,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 2, 1]",6,1.0
+2026-01-11_16:49:32,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 2, 1]",6,1.0
+2026-01-11_18:33:37,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 2, 1]",7,1.0
+2026-01-11_18:35:30,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 2, 1]",6,1.0
+2026-01-11_18:36:31,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'H', 'H'], ['H', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'G']]","[2, 1, 2, 1, 2, 1]",6,1.0
+2026-01-11_18:36:50,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 1]",2,0
+2026-01-11_18:38:43,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 1, 2]",5,0
+2026-01-11_18:40:38,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 1, 1, 2]",6,1.0
+2026-01-11_18:41:46,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 1, 1, 2]",6,1.0
+2026-01-11_18:43:05,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 1, 1, 2]",6,1.0
+2026-01-11_18:44:01,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 1, 1, 2]",6,1.0
+2026-01-11_18:45:10,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 1, 1, 2]",6,1.0
+2026-01-11_18:46:14,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 1, 1, 2]",6,1.0
+2026-01-11_18:47:13,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 1, 1, 2]",6,1.0
+2026-01-11_18:48:33,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 1, 1, 2]",6,1.0
+2026-01-11_18:49:54,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 1, 1, 2]",6,1.0
+2026-01-11_18:51:10,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 1, 1, 2]",6,1.0
+2026-01-11_18:52:33,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 1, 1, 2]",6,1.0
+2026-01-11_18:53:50,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 1, 1, 2]",6,1.0
+2026-01-11_18:54:44,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 1, 1, 2]",6,1.0
+2026-01-11_18:56:06,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 1, 1, 2]",6,1.0
+2026-01-11_18:57:35,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 1, 1, 2]",6,1.0
+2026-01-11_18:58:37,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 1, 1, 2]",6,1.0
+2026-01-11_19:00:05,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 1, 1, 2]",6,1.0
+2026-01-11_19:01:34,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'H'], ['H', 'H', 'F', 'G']]","[2, 2, 1, 1, 1, 2]",6,1.0
+2026-01-11_19:02:28,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'F'], ['H', 'H', 'H', 'G']]","[2, 2, 1, 1]",4,0
+2026-01-11_19:05:03,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'F'], ['H', 'H', 'H', 'G']]","[2, 2, 1, 2, 1, 1]",6,1.0
+2026-01-11_19:06:23,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'F'], ['H', 'H', 'H', 'G']]","[2, 2, 1, 2, 1, 1]",6,1.0
+2026-01-11_19:07:44,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'F'], ['H', 'H', 'H', 'G']]","[2, 2, 1, 2, 1, 1]",6,1.0
+2026-01-11_19:09:08,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'F'], ['H', 'H', 'H', 'G']]","[2, 2, 1, 2, 1, 1]",6,1.0
+2026-01-11_19:10:33,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'F'], ['H', 'H', 'H', 'G']]","[2, 2, 1, 2, 1, 1]",6,1.0
+2026-01-11_19:11:54,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'F'], ['H', 'H', 'H', 'G']]","[2, 2, 1, 2, 1, 1]",6,1.0
+2026-01-11_19:13:05,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'F'], ['H', 'H', 'H', 'G']]","[2, 2, 1, 2, 1, 1]",6,1.0
+2026-01-11_19:14:09,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'F'], ['H', 'H', 'H', 'G']]","[2, 2, 1, 2, 1, 1]",6,1.0
+2026-01-11_19:15:21,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'F'], ['H', 'H', 'H', 'G']]","[2, 2, 1, 2, 1, 1]",6,1.0
+2026-01-11_19:16:40,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'F'], ['H', 'H', 'H', 'G']]","[2, 2, 1, 2, 1, 1]",6,1.0
+2026-01-11_19:17:49,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'F'], ['H', 'H', 'H', 'G']]","[2, 2, 1, 2, 1, 1]",6,1.0
+2026-01-11_19:19:25,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'F'], ['H', 'H', 'H', 'G']]","[2, 2, 1, 2, 1, 1]",6,1.0
+2026-01-11_19:21:24,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'F'], ['H', 'H', 'H', 'G']]","[2, 2, 1, 2, 1, 1]",6,1.0
+2026-01-11_19:22:56,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'F'], ['H', 'H', 'H', 'G']]","[2, 2, 1, 2, 1, 1]",6,1.0
+2026-01-11_19:23:45,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'F'], ['H', 'H', 'H', 'G']]","[2, 2, 1, 2, 1, 1]",6,1.0
+2026-01-11_19:24:59,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'F'], ['H', 'H', 'H', 'G']]","[2, 2, 1, 2, 1, 1]",6,1.0
+2026-01-11_19:26:03,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'F'], ['H', 'H', 'H', 'G']]","[2, 2, 1, 2, 1, 1]",6,1.0
+2026-01-11_19:27:03,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'F'], ['H', 'H', 'H', 'G']]","[2, 2, 1, 2, 1, 1]",6,1.0
+2026-01-11_19:28:03,deepseek-r1,frozenlake,"Destinations: [(3, 3)]; Map: [['S', 'F', 'F', 'H'], ['H', 'H', 'F', 'F'], ['H', 'H', 'H', 'F'], ['H', 'H', 'H', 'G']]","[2, 2, 1, 2, 1, 1]",6,1.0
