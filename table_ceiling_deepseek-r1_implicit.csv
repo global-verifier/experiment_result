@@ -1,0 +1,12 @@
+DeepSeek-R1,,,,
+,webshop,,frozen lake,
+,env0,env1,env0,env1
+no-memory,1.0000,1.0000,0.0500,0.0000
+vanilla,1.0000,1.0000,0.6000,1.0000
+vanilla-glove,1.0000,1.0000,0.7000,0.9000
+memorybank,1.0000,1.0000,0.5500,0.7500
+memorybank-glove,1.0000,1.0000,0.7000,1.0000
+voyager,1.0000,1.0000,0.5000,1.0000
+voyager-glove,1.0000,1.0000,0.6500,0.9000
+generative,1.0000,1.0000,0.6500,1.0000
+generative-glove,1.0000,1.0000,0.7000,0.9000
