@@ -22,7 +22,7 @@ MODELS = {
     "qwen3-30b": ("qwen3-30b-instruct", ["qwen3-30b"]),                      # Qwen3-30B
     "gpt4o": ("gpt4o", ["gpt4o", "gpt-4o"]),                                 # GPT-4o
     "grok-3": ("grok-3", ["grok-3"]),                                        # Grok-3
-    "deepseek-r1": ("deepseek-r1", ["deepseek-r1"]),                         # DeepSeek-R1
+    # "deepseek-r1": ("deepseek-r1", ["deepseek-r1"]),                         # DeepSeek-R1 (已剔除)
     "deepseek-v3.2": ("deepseek-v3.2", ["deepseek-v3.2"]),                   # DeepSeek-V3.2
 }
 
