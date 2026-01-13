@@ -1,6 +1,6 @@
 # 实验结果完整性检查报告
 
-**生成时间**: 2026-01-12 22:20:59
+**生成时间**: 2026-01-13 14:03:59
 
 **检查目录**: `/data/xingkun/experiment_result`
 
@@ -8,7 +8,7 @@
 
 | 模型 | 环境数 | 完整性 | 一致性 |
 |------|--------|--------|--------|
-| llama3.1_8b | 5/5 | ⚠️ frozenlake-explicit缺少方法 | ✅ 一致 |
+| llama3.1_8b | 5/5 | ⚠️ CSV行数错误 | ✅ 一致 |
 | llama-3.3-70b-instruct | 5/5 | ⚠️ CSV行数错误 | ✅ 一致 |
 | qwen2.5-7b | 5/5 | ⚠️ CSV行数错误 | ✅ 一致 |
 | qwen3-30b | 5/5 | ✅ 完整 | ✅ 一致 |
@@ -27,8 +27,8 @@
 
 #### ⚠️ frozenlake-explicit
 - 文件夹: `llama3.1_8b-frozenlake-explicit`
-- 方法数: 0/9
-- 缺失方法: generative_True_False, generative_True_True, memorybank_True_False, memorybank_True_True, vanilla_False_False, vanilla_True_False, vanilla_True_True, voyager_True_False, voyager_True_True
+- CSV行数问题:
+  - generative_True_False: 51/61行
 
 #### ✅ frozenlake-implicit
 - 文件夹: `llama3.1_8b-frozenlake-implicit`
@@ -242,38 +242,27 @@
 #### ⚠️ mountaincar
 - 文件夹: `deepseek-v3.2-mountaincar`
 - CSV行数问题:
-  - generative_True_False: 19/61行
-  - generative_True_True: 24/61行
-  - memorybank_True_False: 39/61行
-  - memorybank_True_True: 40/61行
-  - vanilla_False_False: 56/61行
-  - vanilla_True_False: 21/61行
-  - vanilla_True_True: 19/61行
-  - voyager_True_False: 15/61行
-  - voyager_True_True: 16/61行
+  - generative_True_False: 31/61行
+  - generative_True_True: 39/61行
+  - vanilla_True_False: 34/61行
+  - vanilla_True_True: 35/61行
+  - voyager_True_False: 30/61行
+  - voyager_True_True: 33/61行
 
 #### ✅ webshop-explicit
 - 文件夹: `deepseek-v3.2-webshop-explicit`
 - 方法数: 9/9 ✓
 - CSV行数: 全部正确 ✓
 
-#### ⚠️ webshop-implicit
+#### ✅ webshop-implicit
 - 文件夹: `deepseek-v3.2-webshop-implicit`
-- CSV行数问题:
-  - generative_True_False: 21/41行
-  - generative_True_True: 21/41行
-  - memorybank_True_False: 21/41行
-  - memorybank_True_True: 21/41行
-  - vanilla_False_False: 21/41行
-  - vanilla_True_False: 21/41行
-  - vanilla_True_True: 21/41行
-  - voyager_True_False: 21/41行
-  - voyager_True_True: 21/41行
+- 方法数: 9/9 ✓
+- CSV行数: 全部正确 ✓
 
 ## 📈 统计摘要
 
 - **模型数**: 8/7
 - **环境数**: 40/35
-- **方法数**: 351/315
-- **CSV正确率**: 315/351 (89.7%)
+- **方法数**: 360/315
+- **CSV正确率**: 335/360 (93.1%)
 - **一致性问题**: 0个

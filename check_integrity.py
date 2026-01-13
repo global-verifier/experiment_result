@@ -16,7 +16,7 @@ OUTPUT_FILE = BASE_DIR / f"integrity_report_{TIMESTAMP}.md"
 # 模型列表及其前缀映射（按指定顺序）
 # model_name: (env_folder_prefix, [possible_method_folder_model_names])
 MODELS = {
-    "llama3.1_8b": ("llama3.1_8b", ["llama3.1_8b", "llama3.1-8b"]),          # Llama3.1-8B
+    "llama3.1_8b": ("llama3.1_8b", ["llama3.1_8b", "llama3.1-8b", "llama-3.1-8b-instruct"]),  # Llama3.1-8B
     "llama-3.3-70b-instruct": ("llama-3.3-70b-instruct", ["llama-3.3-70b-instruct"]),  # Llama3.3-70B
     "qwen2.5-7b": ("qwen2.5-7b-instruct", ["qwen2.5-7b"]),                   # Qwen2.5-7B
     "qwen3-30b": ("qwen3-30b-instruct", ["qwen3-30b"]),                      # Qwen3-30B
